@@ -1,11 +1,14 @@
 # Job Application Tracking
 
-This project is a job application tracking system that allows users to monitor the status of their applications. Users can view the status of their applications, track the application process, and receive notifications regarding their application.
+This project is a job application tracking system that allows users to monitor the status of their applications. 
+
+Users can view the status of their applications, track the application process, and receive notifications regarding their application.
+
 
 # Technologies and Libraries
 
 - React: Used to build the user interface.
-- 
+
 -Redux Toolkit: For global state management.
 
 -React Router DOM: To manage page navigation within the app.
