@@ -9,17 +9,17 @@ Users can view the status of their applications, track the application process, 
 
 - React: Used to build the user interface.
 
--Redux Toolkit: For global state management.
+- Redux Toolkit: For global state management.
 
--React Router DOM: To manage page navigation within the app.
+- React Router DOM: To manage page navigation within the app.
 
--React Toastify: To send notifications to the user.
+- React Toastify: To send notifications to the user.
 
--Axios: For making HTTP requests and handling data exchange.
+- Axios: For making HTTP requests and handling data exchange.
 
--Json-Server: For setting up a mock API to manage data.
+- Json-Server: For setting up a mock API to manage data.
 
--React Icons: To add icons to the UI.
+- React Icons: To add icons to the UI.
 
 
 
